@@ -96,6 +96,10 @@ body {
     left: 250px;
     bottom: 300px;
   }
+
+  .profile-img{
+    margin-top: 50px;
+  }
   
   .Coder {
     width: 25%;
